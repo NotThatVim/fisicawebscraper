@@ -2,8 +2,8 @@
 import telegram
 
 # --- Configurazione Bot ---
-BOT_TOKEN = '7964733160:AAH2SjQYVRZSPcYZ9gQG64NDe_pWnlKgr-I'
-CHAT_ID = '6953546258'
+BOT_TOKEN = 'non ti droppo la mia api key così dumbass'
+CHAT_ID = ''
 
 def notify_user(grade):
     """Invia una notifica Telegram con il voto."""
